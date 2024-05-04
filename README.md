@@ -9,7 +9,7 @@
   <a href="https://github.com/aberry520">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aberry520&theme=transparent" />
   </a>
-  <a href="https://github.com/aberry520">
+<!--   <a href="https://github.com/aberry520">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aberry520&langs_count=10&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  </a> -->
 </p>
